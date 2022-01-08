@@ -1,4 +1,3 @@
-# Linktreeclone
+# Linktree clone
 
-Coding...
-
+## Features
